@@ -10,6 +10,7 @@ _templeos-loader_ allows you to use your Linux system for some tasks that previo
 However, the primary goal is not "to bring HolyC to Linux". The TempleOS programming environment is heavily graphics-based, and too unique to blend in with anything else. Therefore, in the long run, we would like to reproduce the complete, authentic TempleOS experience, in Linux user-space, without a clunky VM. 
 
 
+
 ## Building prerequisites
 
 glibc definitely does not appreciate the way we handle memory.
